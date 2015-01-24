@@ -14,12 +14,7 @@ Short description of the widget
 == Description ==
 Full Description of the  widget
 
-== Installation ==
-Installation instruction
-
 == Frequently asked question ==
 
 == Change Log ==
-
-https://wordpress.org/plugins/about/validator/
-
+1.0
